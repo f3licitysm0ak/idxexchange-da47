@@ -45,4 +45,4 @@ print(df[["ClosePrice", "LivingArea", "DaysOnMarket"]].describe())
 
 
 sold.to_csv("outputs/filtered_sold_eda.csv", index=False)
-missing_value_report.to_csv("high_missing_columns.csv", index=False)
+missing_value_report.to_csv("outputs/high_missing_columns.csv", index=False)

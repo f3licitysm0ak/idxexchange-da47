@@ -1,6 +1,8 @@
 week1/listings_data/
 week1/sold_data/
 week1/outputs/
+week2and3/input_data
+week2and3/outputs
 
 #prevent python cache files and mac junk files from being tracked
 __pycache__/
